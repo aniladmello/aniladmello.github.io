@@ -1,8 +1,10 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: "Research Interests"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+The world around us is noisy and changes rapidly. To help us efficiently navigate ambiguous situations and rapidly adapt in the face of surprise, the brain creates internal models of our own actions, the actions and beliefs of others, and the world around us. These models can be used to predict what is likely to occur in a given context, such as what a social partner may think, do, or say. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I study how the brain generates and uses predictions to guide complex cognition, including social cognition and language. To do this, I integrate behavioral experimentation, multimodal neuroimaging, and neuromodulation in children and adults to understand the neural mechanisms and circuits that support the generation of predictions, and how disruptions in these systems affect social cognition and language.
+
+
