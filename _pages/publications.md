@@ -3,7 +3,8 @@ permalink: /publications/
 title: "Publications"
 ---
 
-Rozenkrantz, L., **^D’Mello, A.M.**, Gabrieli, J.D.E (2021) Enhanced Rationality in Autism Spectrum Disorder*. _Trends in Cognitive Sciences_. 25(8):685-696. DOI: https://doi.org/10.1016/j.tics.2021.05.004. ^Illustrated cover for this issue, *Chosen as cover article.
+
+####Rozenkrantz, L., **^D’Mello, A.M.**, Gabrieli, J.D.E (2021) Enhanced Rationality in Autism Spectrum Disorder*. _Trends in Cognitive Sciences_. 25(8):685-696. DOI: https://doi.org/10.1016/j.tics.2021.05.004. ^Illustrated cover for this issue, *Chosen as cover article.
 
 Rice, L., **D’Mello, A.M.**, Stoodley, C.J. (2021) Differential behavioral and neural effects of regional cerebellar tDCS. _Neuroscience_ 462:288-302. DOI: https://doi.org/10.1016/j.neuroscience.2021.03.008 
 
