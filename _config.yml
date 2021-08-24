@@ -62,7 +62,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://admello.github.io"
+      url: "https://aniladmello.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/aniladmello?lang=en"
@@ -70,7 +70,7 @@ author:
       icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=ld3GXF0AAAAJ&hl=en"
     - label: "Contact"
-      icon: "fab fa-envelope"
+      icon: "fas fa-envelope-open"
       url: "admello@mit.edu"
 
 #footer:
@@ -87,16 +87,16 @@ author:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+      #path: ""
+      #type: posts
+    #values:
+      #layout: single
+      #author_profile: true
+      #read_time: true
+      #comments: true
+      #share: true
+      #related: true
   # _pages
   - scope:
       path: "_pages"
