@@ -59,6 +59,7 @@ author:
   #name   : "First Lastname"
   avatar : "/assets/images/amd_4.jpg"
   bio    : "Postdoctoral fellow at the McGovern Institute for Brain Research at MIT"
+  email  : "admello@mit.edu"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -69,9 +70,7 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=ld3GXF0AAAAJ&hl=en"
-    - label: "Contact"
-      icon: "fas fa-envelope-open"
-      url: "admello@mit.edu"
+
 
 #footer:
   #links:
