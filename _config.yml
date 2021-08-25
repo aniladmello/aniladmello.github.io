@@ -34,8 +34,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# SEO
- google-site-verification: "google40df3ef91e37f588.html"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
