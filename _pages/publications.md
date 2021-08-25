@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-####
+
 
 
 Rozenkrantz, L., **^D’Mello, A.M.**, Gabrieli, J.D.E (2021) Enhanced Rationality in Autism Spectrum Disorder*. _Trends in Cognitive Sciences_. 25(8):685-696. DOI: https://doi.org/10.1016/j.tics.2021.05.004. ^Illustrated cover for this issue, *Chosen as cover article.
