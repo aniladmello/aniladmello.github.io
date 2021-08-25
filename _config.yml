@@ -58,7 +58,7 @@ plugins:
 author:
   #name   : "First Lastname"
   avatar : "/assets/images/amd_4.jpg"
-  #bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Postdoctoral fellow at the McGovern Institute for Brain Research at MIT"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
