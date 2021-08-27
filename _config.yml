@@ -55,7 +55,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  - jekyll-seo-tag
+  
 author:
   #name   : "First Lastname"
   avatar : "/assets/images/amd_4.jpg"
